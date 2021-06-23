@@ -15,5 +15,5 @@ Please make sure to update tests as appropriate.
 
 @Copyright Shivam Nanda
 
-[Click Here]: <https://shivamnanda436.github.io/Project-Planner/>
+[Click Here]: <https://iamshivamnanda.github.io/Project-Planner/>
 
